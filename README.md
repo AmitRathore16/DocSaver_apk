@@ -76,3 +76,10 @@ Testing & Debugging:
 Hot reload via Flutter DevTools
 print and snackbar-based error feedback
 Loading indicators (custom progress widgets during API calls)
+
+![e6eef21f-5150-4164-a04c-c00204e5a312](https://github.com/user-attachments/assets/d7042c04-c72c-44b9-a7e2-ae5f0042afaa)
+![16873778-272c-4912-b523-9b8a62d1c851](https://github.com/user-attachments/assets/15d57e42-bae9-40ef-b652-edd0aeee5822)
+![2686304c-28af-4f87-8be6-f238dfa984d5](https://github.com/user-attachments/assets/0a6b5d06-11e7-4487-9d56-eeadd55782e6)
+![11fbd02c-3e87-40ff-9800-09b19984cfb7](https://github.com/user-attachments/assets/88945e0d-0213-48dd-accc-19b2b62124ea)
+![1df440fc-07e1-4974-bce7-4f8aaadeb882](https://github.com/user-attachments/assets/56aec167-7f2f-4d35-b80a-49eda7ecd116)
+![0ed229a9-e35c-4652-989d-86eda597296a](https://github.com/user-attachments/assets/b8549f80-a01f-471e-9ab4-0a134d3fe452)
